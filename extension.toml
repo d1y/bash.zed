@@ -1,5 +1,5 @@
-id = "bash"
-name = "Bash"
+id = "basher"
+name = "Basher"
 version = "0.0.1"
 schema_version = 1
 description = "Bash support"
